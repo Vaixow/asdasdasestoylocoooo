@@ -8,4 +8,5 @@ class Contacto(models.Model): ##modelo de contacto
 
     def __str__(self):
         return f"{self.nombre} - {self.correo}"
+    ##c
 # Create your models here.
